@@ -4,9 +4,12 @@ matplotlib
 plotly
 ipywidgets
 ipyleaflet
+jupyterlab-widgets
+anywidget
 ahrs
 scipy
 filterpy
 scikit-learn
+pyproj
 voila
-anywidget
+ipython
