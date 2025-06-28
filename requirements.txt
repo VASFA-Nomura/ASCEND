@@ -9,3 +9,4 @@ scipy
 filterpy
 scikit-learn
 voila
+anywidget
