@@ -1,7 +1,6 @@
 <p align="left">
   <img src="ascend-logo.png" alt="ASCEND" width="500"/>
 </p>
-
 Interactive toolkit for analyzing model rocket flight data using Arduino Nano 33 BLE and BMP390. Built for students with no coding required. Launch via Binder and explore 3D flight paths, sensor filtering, and event tracking with Voilà.
 
 # ASCEND Rocket Flight Data Analysis Notebook
