@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+plotly
+ipywidgets
+ipyleaflet
+ahrs
+scipy
+filterpy
+scikit-learn
+voila
